@@ -14,7 +14,7 @@
 didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    NSLog(@"application did finish launching");
+    NSLog(@"application did finish launching SUPER DUPER FAST");
     
     return YES;
 }
